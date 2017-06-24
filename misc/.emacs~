@@ -1,0 +1,2 @@
+(make-auto-save-file-name)
+(global-auto-revert-mode 1)
